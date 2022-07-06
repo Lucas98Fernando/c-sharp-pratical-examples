@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\personal-projects\development\c#.net\start\bin\Debug\net6.0\start.exe
+C:\Users\lucas\Documents\personal-projects\development\c#.net\start\bin\Debug\net6.0\start.deps.json
+C:\Users\lucas\Documents\personal-projects\development\c#.net\start\bin\Debug\net6.0\start.runtimeconfig.json
+C:\Users\lucas\Documents\personal-projects\development\c#.net\start\bin\Debug\net6.0\start.dll
+C:\Users\lucas\Documents\personal-projects\development\c#.net\start\bin\Debug\net6.0\start.pdb
+C:\Users\lucas\Documents\personal-projects\development\c#.net\start\obj\Debug\net6.0\start.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\personal-projects\development\c#.net\start\obj\Debug\net6.0\start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\personal-projects\development\c#.net\start\obj\Debug\net6.0\start.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\personal-projects\development\c#.net\start\obj\Debug\net6.0\start.AssemblyInfo.cs
+C:\Users\lucas\Documents\personal-projects\development\c#.net\start\obj\Debug\net6.0\start.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\personal-projects\development\c#.net\start\obj\Debug\net6.0\start.dll
+C:\Users\lucas\Documents\personal-projects\development\c#.net\start\obj\Debug\net6.0\refint\start.dll
+C:\Users\lucas\Documents\personal-projects\development\c#.net\start\obj\Debug\net6.0\start.pdb
+C:\Users\lucas\Documents\personal-projects\development\c#.net\start\obj\Debug\net6.0\start.genruntimeconfig.cache
+C:\Users\lucas\Documents\personal-projects\development\c#.net\start\obj\Debug\net6.0\ref\start.dll
